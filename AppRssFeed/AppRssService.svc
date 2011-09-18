@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="FreeAppRss.AppRssFeed.AppRssService" CodeBehind="AppRssService.svc.cs" %>

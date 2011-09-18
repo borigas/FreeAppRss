@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="\\VM\Sites\FreeAppRssFeed" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="07/11/2011 18:44:11" />
+    <file relUrl="bin/HtmlAgilityPack.pdb" publishTime="05/07/2010 11:32:56" />
+    <file relUrl="bin/EntityFramework.dll" publishTime="07/02/2011 14:44:52" />
+    <file relUrl="bin/FreeAppRss.AppRssDatabase.pdb" publishTime="07/13/2011 19:55:10" />
+    <file relUrl="AppRssService.svc" publishTime="07/02/2011 19:01:35" />
+    <file relUrl="bin/FreeAppRss.AppRssFeed.pdb" publishTime="07/13/2011 20:09:15" />
+    <file relUrl="bin/HtmlAgilityPack.dll" publishTime="05/07/2010 11:32:56" />
+    <file relUrl="bin/EntityFramework.xml" publishTime="07/02/2011 14:44:52" />
+    <file relUrl="bin/HtmlAgilityPack.xml" publishTime="05/07/2010 11:32:56" />
+    <file relUrl="bin/FreeAppRss.ScreenScrapper.dll" publishTime="07/13/2011 19:55:11" />
+    <file relUrl="bin/FreeAppRss.AppRssFeed.dll" publishTime="07/13/2011 20:09:15" />
+    <file relUrl="Global.asax" publishTime="07/02/2011 16:42:37" />
+    <file relUrl="bin/FreeAppRss.AppRssDatabase.dll" publishTime="07/13/2011 19:55:10" />
+    <file relUrl="bin/FreeAppRss.ScreenScrapper.pdb" publishTime="07/13/2011 19:55:11" />
+  </publishProfile>
+</publishData>

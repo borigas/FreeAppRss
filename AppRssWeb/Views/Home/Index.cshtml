@@ -1,0 +1,11 @@
+﻿@using FreeAppRss.AppRssDatabase
+@model List<App>
+<h2>
+    <a href="http://rss.freeapprss.com/feed.rss"><img src="../../Content/rss.png" alt="Rss Feed" /></a>
+    FreeAppRss.net
+</h2>
+
+@foreach (App app in Model)
+{
+    @Html.Partial("Details", app);
+}

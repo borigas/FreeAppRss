@@ -1,0 +1,22 @@
+﻿@model FreeAppRss.AppRssDatabase.App
+<fieldset>
+    <legend>
+        <a href="@Model.Link">@Html.DisplayFor(model => model.Name)</a>
+    </legend>
+
+    <div class="display-field">
+        by @Html.DisplayFor(model => model.Vendor)
+    </div>
+
+    <div class="display-field">
+        Normally @string.Format("{0:C}", Model.ListPrice)
+    </div>
+
+    <div class="display-field">
+        @Model.CreatedAt.ToShortDateString()
+    </div>
+
+    <div class="display-field">
+        @(new HtmlString(Model.Description))
+    </div>
+</fieldset>
